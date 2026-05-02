@@ -1,5 +1,5 @@
-# NewsVerify
-
+# NewsVerify DEMO PROJECT
+ 
 A decentralized news verification platform. It uses community voting and a confidence engine to verify local news, with everything logged on a local blockchain.
 
 Our project proposes a hybrid decentralized news verification system combining reputation weighted
